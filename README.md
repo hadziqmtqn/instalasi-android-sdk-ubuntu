@@ -1,3 +1,4 @@
 # Install Default JRE/JDK
-sudo apt install default-jre
-sudo apt install default-jdk
+<code>sudo apt install default-jre</code>
+
+<code>sudo apt install default-jdk</code>
